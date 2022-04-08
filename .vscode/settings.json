@@ -1,0 +1,12 @@
+{
+    "emojisense.languages": {
+        "markdown": true,
+        "plaintext": false,
+        "json": true,
+        "scminput": true // language used in the source control commit message box
+    },
+    "emojisense.emojiDecoratorsEnabled": true,
+    "emojisense.showOnColon": true,
+    "emojisense.markupCompletionsEnabled": true,
+    "emojisense.unicodeCompletionsEnabled": true
+}
